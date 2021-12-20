@@ -1,0 +1,9 @@
+{
+    "crosshair.enabled": false,
+    "cSpell.language": "en,nl",
+    "githubPullRequests.remotes": [
+        "origin",
+        "upstream",
+        "https://github.com/annekoster"
+    ]
+}
