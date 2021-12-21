@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "cjs-module": "^1.5.0",
     "express": "^4.17.2"
-  }
+  },
+  "type": "module"
 }
